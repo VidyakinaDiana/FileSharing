@@ -1,0 +1,79 @@
+body {
+	background-color: #FFFFFF;
+}
+#head {
+	position: absolute;
+	top: 0;
+	left: 500px;
+	width: 100%;
+	background: #FFFFFF;
+	height: 70px;
+}
+.desk {
+	border: 3px solid #FFFFFF;
+	border-radius: 5px;
+	padding: 20px;
+	margin-top: 20px;
+	min-height: 100px;
+	width: 40%;
+}
+.body {
+	margin-top: 80px;
+	margin-left: 35%;
+}
+a {
+	text-decoration: none;
+	color: green;
+	background-color: #FFFFFF;
+	padding: 10px;
+	margin-top: 15px;
+	margin-left: 15px;
+	float: left;
+	transition: all 500ms ease;
+}
+a:hover {
+	box-shadow: 0 0 10px 0 lightgrey inset, 0 0 10px 4px green;
+}
+h1 {
+	color: green;
+	font-style: normal;
+}
+h6 {
+	color: green;
+	background-color: #FFFFFF;
+}
+p {
+	color: green;
+	font-style: normal;
+}
+textarea {
+	resize: none;
+	width: 100%;
+	background-color: lightgrey;
+}
+textarea:focus {
+	background-color: #FFFFFF;
+}
+.inputButton {
+	background-color: lightgrey;
+}
+input:focus {
+	background-color: #FFFFFF;
+}
+h2 {
+	text-align: right;
+	margin-right: 15px;
+	color: #FFFFFF;
+}
+.button {
+	font-size: 16px;
+	font-style: italic;
+	background-color: #FFFFFF;
+	color: green;
+	border: 3px solid #FFFFFF;
+	margin-top: 15px;
+	transition: all 500ms ease;
+}
+.button:hover {
+	background-color: lightgrey;
+}

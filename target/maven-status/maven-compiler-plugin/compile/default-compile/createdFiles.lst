@@ -1,0 +1,10 @@
+net/coursework/app/view/MyDirectory.class
+net/coursework/app/view/Package.class
+net/coursework/app/model/DataBase.class
+net/coursework/app/view/Main.class
+net/coursework/app/view/Registration.class
+net/coursework/app/view/DownloadServlet.class
+net/coursework/app/view/Login.class
+net/coursework/app/view/Logout.class
+net/coursework/app/view/GeneralDirectory.class
+net/coursework/app/view/User.class
